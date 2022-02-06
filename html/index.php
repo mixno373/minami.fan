@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 require_once $_SERVER['DOCUMENT_ROOT'] . "/core/db/db.global.php";
 require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
@@ -189,7 +189,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
         	<h2>OFFICIAL SOURCES</h2>
 
 
-        	<h4> 
+        	<h4>
                 <div>
                     <a href="https://www.373official.com/">Official Website of 美波 (Minami)</a>
                     <br>
@@ -217,8 +217,8 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
         	<br>
 
             <h2>OUR GROUPS</h2>
-            
-           <h4> 
+
+           <h4>
                 <div class="spoiler">
                    <input type="checkbox" id="international">
                    <label for="international">🌐 International Groups 🌐</label>
@@ -230,6 +230,9 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
                         <br>
                         <br>
                         <a href="https://www.facebook.com/groups/2607461685962651">Facebook</a>
+                        <br>
+                        <br>
+                        <a href="mailto:373@minami.fan">Mailbox (373@minami.fan)</a>
                         <br>
                         <br>
                         <a href="https://instagram.com/osakana373fans">Instagram</a>
@@ -319,9 +322,9 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
         <br>
 
         <h2>MEDIA</h2>
-            
 
-           <h4> 
+
+           <h4>
                 <div class="spoiler">
                    <input type="checkbox" id="media_streams">
                    <label for="media_streams">Streams</label>
@@ -361,7 +364,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
         </div>
     </div>
 
-    
+
     <div class="container-fluid fh5co-news" id="news">
         <div class="container">
             <h2>OUR NEWS</h2>
@@ -394,7 +397,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
     <!-- <div class="mfz-stats" id="mfz-stats">
         <div class="container fh5co-mfz-stats" align="center">
             <h2>Minami Fan Zone - Discord Server</h2>
-            
+
           <div class="server_chart">
 		     <div class="tab">
 		      <button class="tablinks" onclick="openTab(event, '#users')" id="defaultOpen">Users</button>
@@ -413,7 +416,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/core/functions.php";
     </div> -->
 
 
-    
+
     <div class="container-fluid copy">
         <div class="col-lg-12">
             <p>&copy; 2020 Photogenic. All rights Reserved. Design by <a href="https://freehtml5.co" target="_blank">FreeHTML5.co</a>.</p>
